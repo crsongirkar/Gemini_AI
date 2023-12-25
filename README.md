@@ -1,6 +1,6 @@
 # Google Generative AI Sample for Android (Kotlin)
 
-This Android sample app demonstrates how to use state-of-the-art 
+<!--This Android sample app demonstrates how to use state-of-the-art 
 generative AI models (like Gemini) to build AI-powered features and applications.
 
 To try out this sample app, you need to use latest stable version of Android Studio. 
@@ -12,8 +12,8 @@ You can clone this repository or import the project from Android Studio followin
 
 ## Screenshots
 
-<img src="screenshots/screenshots.png" alt="Screenshot">
-
+<img src="screenshots/screenshots.png" alt="Screenshot"> 
+!--->
 ## Requirements
 
 1. Follow the instructions on Google AI Studio [setup page](https://makersuite.google.com/app/apikey) to obtain an API key.
